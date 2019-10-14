@@ -1,13 +1,15 @@
 
 Target Certificates: 
 
-ADM 2.0 - For Consultants 
-
-App Builder - For Architects 
+ADM 201 - For Consultants 
 
 Salesforce Platform Dev 1 - Dev Focused ( Basics )
 
+App Builder - For Architects 
 
+
+
+Notes: 
 
 Table / Object / Entity 
 
@@ -70,3 +72,16 @@ Owner field ( Inherited from Primary Master Object )
 
 Number of Master relations on a single Object
 No. Of Lookup relations on a single object 
+
+
+
+
+Salesforce Admin Playlist - 32 Videos 
+https://www.youtube.com/watch?v=bOzlOkPU0cI&list=PLdYQMTciVWO9xjvh1J7SXjhzpnzWvLih4&index=2&t=0s
+
+
+Trail Head Notes 
+
+cunning-fox-fibjf7-dev-ed.my.salesforce.com
+
+Salesforce Platform Basics - Completed. 
