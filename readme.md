@@ -84,4 +84,38 @@ Trail Head Notes
 
 cunning-fox-fibjf7-dev-ed.my.salesforce.com
 
-Salesforce Platform Basics - Completed. 
+Salesforce Platform Basics - Completed.
+Index To Learning Objectives 
+
+Salesforce Identity Basics 
+Describe how Salesforce Identity helps administrators.
+Understand how Salesforce Identity can benefit a business.
+Distinguish the difference between single sign-on (SSO) and social sign-on.
+Describe the benefits of My Domain.Describe how employees benefit from Salesforce Identity.
+Describe how customers and partners benefit from Salesforce Identity.
+Describe what’s important when setting up user registration.
+Know which features of Salesforce Identity benefit employees, which benefit partners and customers, and which benefit both.
+Identify the industry standards used for identity and access management.
+Know how SAML is related to XML.
+Know the difference between an identity provider and service provider.
+
+Company wide Org Setting 
+
+Describe how configuring your company settings affect your end users.
+Translate the company’s business requirements into your company settings.
+Implement changes to your company information and fiscal year.
+Update your personal locale settings.
+Add new currencies to your org.
+Summarize the impact of using single currency versus multiple currencies.
+Set up Advanced Currency Management.
+Edit conversion rates, and enable users to select personal currencies.
+
+User Management
+
+Describe a user account and the type of information it contains.
+Add a single user or multiple users.
+Use the Salesforce mobile app to manage users on the go.
+Describe the difference between object and field level security
+Describe how to set org–wide default sharing settings
+
+
