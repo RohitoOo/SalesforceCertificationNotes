@@ -101,6 +101,7 @@ Know the difference between an identity provider and service provider.
 
 Company wide Org Setting 
 
+
 Describe how configuring your company settings affect your end users.
 Translate the company’s business requirements into your company settings.
 Implement changes to your company information and fiscal year.
@@ -111,6 +112,7 @@ Set up Advanced Currency Management.
 Edit conversion rates, and enable users to select personal currencies.
 
 User Management
+
 
 Describe a user account and the type of information it contains.
 Add a single user or multiple users.
